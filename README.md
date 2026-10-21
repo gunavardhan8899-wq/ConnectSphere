@@ -105,7 +105,7 @@ http://localhost:3000
 
 ## 👨‍💻 Author
 
-**Sudheer**
+**Guna Vardhan**
 
 GitHub: https://github.com/gunavardhan8899-wq
 
